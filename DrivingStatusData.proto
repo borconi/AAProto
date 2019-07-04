@@ -18,7 +18,7 @@
 
 syntax="proto2";
 
-package uk.co.borconi.emil.aagateway.proto.data;
+package gb.xxy.trial.proto.data;
 
 message DrivingStatus
 {

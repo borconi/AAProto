@@ -18,7 +18,7 @@
 
 syntax="proto2";
 
-package uk.co.borconi.emil.aagateway.proto.messages;
+package gb.xxy.trial.proto.messages;
 
 message AVInputOpenResponse
 {
